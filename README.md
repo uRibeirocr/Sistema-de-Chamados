@@ -1,4 +1,4 @@
-# Sistema dde Chamados
+# Sistema de Chamados
 
 Sistema de gerenciamento de chamados desenvolvido em Python.
 
