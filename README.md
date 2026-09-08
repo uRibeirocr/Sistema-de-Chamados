@@ -11,13 +11,29 @@ O sistema permite que usuários façam login e tenham acesso a diferentes funcio
 ## Funcionalidades 
 
 [x] Sistema de login
+
+
 [x] Autenticação de usuários
+
+
 [x] Identificação do tipo de usuário
+
+
 [x] Menu principal
+
+
 [x] Abrir chamado
+
+
 [x] Listar chamados
+
+
 [x] Consultar chamado
+
+
 [x] Alterar status do chamado
+
+
 [x] Armazenar chamados
 
 ## Tecnologias utilizadas 
